@@ -1,0 +1,14 @@
+﻿  Generate moc_predefs.h
+  chessai.cpp
+  gamewidget.cpp
+  linuxTimerToWindowsTimer.cpp
+  main.cpp
+  widget.cpp
+linuxTimerToWindowsTimer.cpp(25,15): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+linuxTimerToWindowsTimer.cpp(9,45): warning C4100: “tzp”: 未引用的形参
+chessai.cpp(284,53): warning C4100: “needPrint”: 未引用的形参
+gamewidget.cpp(52,42): warning C4100: “event”: 未引用的形参
+gamewidget.cpp(113,49): warning C4100: “event”: 未引用的形参
+  moc_gamewidget.cpp
+  moc_widget.cpp
+  Gobang.vcxproj -> C:\Users\19595\Desktop\Gobang-ai-master\release\Gobang.exe

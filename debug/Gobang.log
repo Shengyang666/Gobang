@@ -1,0 +1,4 @@
+﻿  gamewidget.cpp
+gamewidget.cpp(52,42): warning C4100: “event”: 未引用的形参
+gamewidget.cpp(113,49): warning C4100: “event”: 未引用的形参
+  Gobang.vcxproj -> C:\Users\19595\Desktop\Gobang-ai-master\debug\Gobang.exe
